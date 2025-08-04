@@ -1,0 +1,8 @@
+C:\Users\TYRON\source\repos\ProjectTemplate3\ProjectTemplate3\bin\Debug\ProjectTemplates\CSharp\1033\ProjectTemplate3.zip
+C:\Users\TYRON\source\repos\ProjectTemplate3\ProjectTemplate3\obj\Debug\ProjectTemplate3.csproj.AssemblyReference.cache
+C:\Users\TYRON\source\repos\ProjectTemplate3\ProjectTemplate3\obj\Debug\_EmptyResource.resources
+C:\Users\TYRON\source\repos\ProjectTemplate3\ProjectTemplate3\obj\Debug\ProjectTemplate3.csproj.GenerateResource.cache
+C:\Users\TYRON\source\repos\ProjectTemplate3\ProjectTemplate3\obj\Debug\ProjectTemplate3.csproj.CoreCompileInputs.cache
+C:\Users\TYRON\source\repos\ProjectTemplate3\ProjectTemplate3\obj\Debug\CSharp\1033\ProjectTemplate3.zip
+C:\Users\TYRON\source\repos\ProjectTemplate3\ProjectTemplate3\obj\Debug\ProjectTemplate3.dll
+C:\Users\TYRON\source\repos\ProjectTemplate3\ProjectTemplate3\obj\Debug\ProjectTemplate3.pdb
